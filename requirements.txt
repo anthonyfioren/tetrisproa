@@ -2,6 +2,7 @@ numpy
 pandas
 pydrive
 google
+seaborn
 oauth2client
 matplotlib
 sklearn
