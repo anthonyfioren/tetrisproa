@@ -1,4 +1,4 @@
-%%writefile app.py
+
 import streamlit as st
 st.header('ANALISIS KEGAGALAN EVOS LEGEND KE PLAYOFF MPL S10')
 st.write('## Analisis Kegagalan Evos Legend melaju ke Playoff MPL Season 10 dilihat dari segi `Statistik` ')
