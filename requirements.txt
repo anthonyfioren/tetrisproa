@@ -1,0 +1,9 @@
+numpy
+pandas
+pydrive
+google
+oauth2client
+matplotlib
+sklearn
+scipy
+plotly
